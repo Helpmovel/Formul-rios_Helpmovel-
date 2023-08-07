@@ -66,20 +66,29 @@ h1 {
     background-color: #006400;
 }
 
-/* Estilos do botão para o modo dark */
-.dark-mode-button {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    padding: 8px 16px;
+/* Estilos para o campo de dúvidas */
+.questions {
+    margin-top: 40px;
+    padding: 20px;
+    border: 1px solid #ccc;
     border-radius: 6px;
-    color: #fff;
-    background-color: #333;
-    border: none;
-    cursor: pointer;
 }
 
-/* Estilos do botão para o modo dark quando hover */
-.dark-mode-button:hover {
-    background-color: #444;
+.questions h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.questions p {
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.questions ul {
+    list-style: none;
+    padding: 0;
+}
+
+.questions li {
+    margin-bottom: 5px;
 }
