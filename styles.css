@@ -66,6 +66,10 @@ h1 {
     background-color: #006400;
 }
 
+.button-red:hover {
+    background-color: #ff0000;
+}
+
 /* Estilos do botão para o modo dark */
 .dark-mode-button {
     position: absolute;
