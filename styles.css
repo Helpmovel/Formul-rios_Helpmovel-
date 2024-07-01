@@ -57,6 +57,10 @@ h1 {
     background-color: #cf0e0e;
 }
 
+.button-roxo {
+    background-color: #A020F0;
+}
+
 /* Estilos de hover para todos os botões */
 .button:hover {
     background-color: #0056b3;
