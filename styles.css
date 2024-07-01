@@ -75,6 +75,10 @@ h1 {
     background-color: #ff0000;
 }
 
+.button-roxo:hover {
+    background-color: #A020F0;
+}
+
 /* Estilos do botão para o modo dark */
 .dark-mode-button {
     position: absolute;
