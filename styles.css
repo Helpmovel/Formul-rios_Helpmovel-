@@ -61,6 +61,15 @@ h1 {
     background-color: #A020F0;
 }
 
+.button-laranja {
+    background-color: #2e8b57;
+}
+
+.button-cinza {
+    background-color: #696969;
+}
+
+
 /* Estilos de hover para todos os botões */
 .button:hover {
     background-color: #0056b3;
